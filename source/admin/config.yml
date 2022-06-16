@@ -1,5 +1,6 @@
 backend:
-#   name: lucent-baklava-d8f99e
+  name: github
+  repo: lzhen186/hexo-starter
   branch: master # Branch to update (master by default)
 
 # These lines should *not* be indented
