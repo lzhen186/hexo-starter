@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: lzhen186/hexo-starter
-  branch: master # Branch to update (master by default)
+  branch: main # Branch to update (master by default)
   base_url: https://hread.vercel.app
 
 # These lines should *not* be indented
