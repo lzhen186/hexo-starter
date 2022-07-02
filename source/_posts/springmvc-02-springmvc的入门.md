@@ -145,7 +145,7 @@ public class HelloController {
 
 ## 2.2 SpringMVC的请求响应流程
 
-![](https://gitee.com/krislin_zhao/IMGcloud/raw/master/img/20200723115726.png)
+![](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fwww.pianshen.com%2Fimages%2F561%2F8efc491831ac1a2742433fd2ad019a69.png&refer=http%3A%2F%2Fwww.pianshen.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1659319596&t=52e32d9c38110e057c9cee6795d68f70)
 
 # 3.入门案例中涉及的组件
 
@@ -245,7 +245,6 @@ public @interface RequestMapping {
    /order/update
    /order/delete
    红色的部分就是把 RequsetMappding 写在类上，使我们的 URL 更加精细。
-
 2. 方法上
    请求 URL 的第二级访问目录。
 
