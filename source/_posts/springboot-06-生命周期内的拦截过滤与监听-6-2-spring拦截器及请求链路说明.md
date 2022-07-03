@@ -75,4 +75,4 @@ public class MyWebMvcConfigurer implements WebMvcConfigurer
 
 ![](https://cdn.jsdelivr.net/gh/krislinzhao/IMGcloud/img/20200426151106.png)
 
-![](https://cdn.jsdelivr.net/gh/krislinzhao/IMGcloud/img/20200426151331.png)
+![](images/9af9dc6946b149be878a0b3ec1529d33.png)
