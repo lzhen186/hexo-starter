@@ -1,5 +1,5 @@
 ---
-title: SpringBoot 10.异步任务与定时任务 10.3.通过@Scheduled实现定时任务
+title: SpringBoot 10.异步任务与定时任务 10.4.quartz简单定时任务(内存持久化)
 date: 2022-07-03T08:40:31.660Z
 ---
 # 一、 引入对应的 maven依赖
