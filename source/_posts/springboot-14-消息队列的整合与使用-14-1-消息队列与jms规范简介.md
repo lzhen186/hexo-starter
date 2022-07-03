@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 14.消息队列的整合与使用 14.1.消息队列与JMS规范简介
 date: 2022-07-03T14:35:57.162Z
+tags: [springboot]
 ---
 # 一、为什么使用消息队列
 

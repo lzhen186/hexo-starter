@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.9.整合Mybatis操作数据
 date: 2022-07-03T02:08:07.150Z
+tags: [springboot]
 ---
 # 一、整合Mybatis
 

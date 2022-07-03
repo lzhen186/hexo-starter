@@ -1,6 +1,7 @@
 ---
 title: Redis 07.哈希数据类操作
 date: 2022-07-01T13:04:37.936Z
+tags: [redis]
 ---
 - [1. hset 设置哈希field域的值](#1-hset-设置哈希field域的值)
 - [2. hmset 设置哈希多个field域的值](#2-hmset-设置哈希多个field域的值)

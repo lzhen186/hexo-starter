@@ -1,6 +1,7 @@
 ---
 title: Redis 04.链表类型操作
 date: 2022-07-01T12:47:51.181Z
+tags: [redis]
 ---
 - [lpush/rpush 在链表头/尾增加一个成员](#lpushrpush-在链表头尾增加一个成员)
 - [lrange 获取链表成员](#lrange-获取链表成员)

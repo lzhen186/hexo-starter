@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 03.spring boot配置原理实战 3.3.1.配置文件值注入
 date: 2022-07-03T00:21:40.791Z
+tags: [springboot]
 ---
 # Pet和Person类
 

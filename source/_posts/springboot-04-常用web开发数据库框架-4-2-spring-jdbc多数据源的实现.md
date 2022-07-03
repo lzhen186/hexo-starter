@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.2 Spring JDBC多数据源的实现
 date: 2022-07-03T01:20:28.310Z
+tags: [springboot]
 ---
 # 一、配置多个数据源
 

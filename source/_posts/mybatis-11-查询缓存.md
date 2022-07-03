@@ -1,6 +1,7 @@
 ---
 title: MyBatis 11.查询缓存
 date: 2022-07-01T06:36:18.634Z
+tags: [mybatis]
 ---
 # 1. 查询缓存
 

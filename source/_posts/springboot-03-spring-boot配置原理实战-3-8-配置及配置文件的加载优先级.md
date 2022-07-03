@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 03.spring boot配置原理实战 3.8.配置及配置文件的加载优先级
 date: 2022-07-03T00:47:33.846Z
+tags: [springboot]
 ---
 # 一、项目内部配置文件加载位置
 

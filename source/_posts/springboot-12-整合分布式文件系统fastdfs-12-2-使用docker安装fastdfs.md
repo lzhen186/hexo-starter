@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 12.整合分布式文件系统fastdfs 12.2.使用docker安装fastdfs
 date: 2022-07-03T14:11:01.809Z
+tags: [springboot]
 ---
 # 一、安装
 

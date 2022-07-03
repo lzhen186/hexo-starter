@@ -1,6 +1,7 @@
 ---
 title: "SpringBoot 01.spring boot 2.x基础及概念入门 1.3.Hello World项目探究 "
 date: 2022-07-02T09:11:28.929Z
+tags: [springboot]
 ---
 # 1. 依赖
 

@@ -1,6 +1,7 @@
 ---
 title: MyBatis 03.入门程序
 date: 2022-07-01T04:56:06.356Z
+tags: [mybatis]
 ---
 # 1. 目录结构
 

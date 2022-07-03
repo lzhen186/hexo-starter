@@ -1,6 +1,7 @@
 ---
 title: "SpringBoot 11.redis缓存与session共享 11.3.使用redisTemplate操作数据  "
 date: 2022-07-03T08:57:27.113Z
+tags: [springboot]
 ---
 # 一、spring-data-redis简介
 

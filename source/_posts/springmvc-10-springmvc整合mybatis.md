@@ -1,6 +1,7 @@
 ---
 title: SpringMVC 10.SpringMVC整合Mybatis
 date: 2022-07-02T06:53:21.797Z
+tags: [springmvc]
 ---
 # 1.整合思路
 

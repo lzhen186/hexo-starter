@@ -1,6 +1,7 @@
 ---
 title: MongoDB 03.mongoDB增删改查操作
 date: 2022-07-02T00:06:27.670Z
+tags: [mongodb]
 ---
 # 1. 库和集合的基础命令
 

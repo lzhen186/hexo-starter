@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 05.spring boot web开发 5.4.web应用开发之整合freemarker
 date: 2022-07-03T04:38:24.586Z
+tags: [springboot]
 ---
 # 一、Freemarker简介
 

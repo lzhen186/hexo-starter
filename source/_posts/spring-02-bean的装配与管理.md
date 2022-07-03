@@ -1,6 +1,7 @@
 ---
 title: Spring 02.Bean的装配与管理
 date: 2022-07-02T00:35:18.728Z
+tags: [spring]
 ---
 # Spring学习笔记（二）Bean的装配与管理
 

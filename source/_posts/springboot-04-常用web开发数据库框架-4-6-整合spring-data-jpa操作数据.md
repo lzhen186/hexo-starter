@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.6.整合Spring Data JPA操作数据
 date: 2022-07-03T01:47:23.424Z
+tags: [springboot]
 ---
 # 一、 Sping Data JPA 简介
 

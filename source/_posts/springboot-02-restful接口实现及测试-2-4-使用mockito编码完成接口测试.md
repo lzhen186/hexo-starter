@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 02.RESTful接口实现及测试 2.4.使用Mockito编码完成接口测试
 date: 2022-07-02T11:11:26.245Z
+tags: [springboot]
 ---
 # 一、介绍Mock
 

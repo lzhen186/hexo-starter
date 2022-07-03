@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 05.spring boot web开发 5.0.web开发原理
 date: 2022-07-03T04:04:53.060Z
+tags: [springboot]
 ---
 # 1. 简介
 

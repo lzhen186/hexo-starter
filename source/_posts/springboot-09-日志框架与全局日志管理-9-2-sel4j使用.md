@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 09.日志框架与全局日志管理 9.2.SEL4J使用
 date: 2022-07-03T08:00:05.724Z
+tags: [springboot]
 ---
 # 1. 如何使用SLF4J
 

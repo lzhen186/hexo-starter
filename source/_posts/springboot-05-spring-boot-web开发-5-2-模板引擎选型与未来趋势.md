@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 05.spring boot web开发 5.2.模板引擎选型与未来趋势
 date: 2022-07-03T04:26:06.661Z
+tags: [springboot]
 ---
 # 一、java web开发经历的几个阶段
 

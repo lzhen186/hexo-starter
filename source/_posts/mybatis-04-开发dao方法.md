@@ -1,6 +1,7 @@
 ---
 title: MyBatis 04.开发dao方法
 date: 2022-07-01T05:07:56.099Z
+tags: [mybatis]
 ---
 # 1. SqlSession使用范围
 

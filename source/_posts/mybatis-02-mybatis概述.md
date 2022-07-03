@@ -1,6 +1,7 @@
 ---
 title: MyBatis 02.mybatis概述
 date: 2022-07-01T04:40:52.011Z
+tags: [mybatis]
 ---
 # 1. mybatis 介绍
 

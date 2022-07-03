@@ -1,6 +1,7 @@
 ---
 title: MyBatis 09.高级映射结果集
 date: 2022-07-01T05:58:19.804Z
+tags: [mybatis]
 ---
 # 1. 一对一
 

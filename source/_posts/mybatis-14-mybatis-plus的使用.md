@@ -1,6 +1,7 @@
 ---
 title: MyBatis 14.MyBatis Plus的使用
 date: 2022-07-01T07:30:27.240Z
+tags: [mybatis]
 ---
 # 1.Mybatis-Plus
 

@@ -1,6 +1,7 @@
 ---
 title: "SpringBoot 11.redis缓存与session共享 11.2.redis数据结构与应用场景  "
 date: 2022-07-03T08:50:42.514Z
+tags: [springboot]
 ---
 # 一、简介
 

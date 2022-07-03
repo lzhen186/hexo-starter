@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.7.Spring data JPA的多数据源实现
 date: 2022-07-03T01:59:02.141Z
+tags: [springboot]
 ---
 # 一、主流的多数据源支持方式
 

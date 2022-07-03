@@ -1,6 +1,7 @@
 ---
 title: MyBatis 05.配置文件
 date: 2022-07-01T05:17:39.298Z
+tags: [mybatis]
 ---
 # 1. SqlMapConfig.xml中配置的内容和顺序
 

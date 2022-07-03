@@ -1,6 +1,7 @@
 ---
 title: MySQL 05.表的综合查询
 date: 2022-07-01T08:08:10.061Z
+tags: [mysql]
 ---
 - [1. where 条件约束](#1-where-条件约束)
 - [2. group 数据分组](#2-group-数据分组)

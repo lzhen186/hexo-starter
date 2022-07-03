@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 13.服务器推送技术 13.2.服务端推送事件SSE
 date: 2022-07-03T14:24:39.246Z
+tags: [springboot]
 ---
 # 一、模拟网络支付场景
 

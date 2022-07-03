@@ -1,6 +1,7 @@
 ---
 title: Spring 03.依赖注入
 date: 2022-07-02T00:45:34.307Z
+tags: [spring]
 ---
 # Spring学习笔记（三）依赖注入（Dependency Injection）
 

@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 01.spring boot 2.x基础及概念入门 1.2.Hello World及项目结构
 date: 2022-07-02T09:08:05.691Z
+tags: [springboot]
 ---
 # 一、使用IntellijIDEA建立第一个spring boot 项目
 

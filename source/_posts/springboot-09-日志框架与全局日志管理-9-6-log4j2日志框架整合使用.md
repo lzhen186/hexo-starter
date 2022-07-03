@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 09.日志框架与全局日志管理 9.6.log4j2日志框架整合使用
 date: 2022-07-03T08:11:32.005Z
+tags: [springboot]
 ---
 # 一、引入maven依赖
 

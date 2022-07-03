@@ -1,6 +1,7 @@
 ---
 title: MyBatis 12.mybatis整合ehcache
 date: 2022-07-01T06:51:21.701Z
+tags: [mybatis]
 ---
 **ehcache是一个分布式缓存框架**
 

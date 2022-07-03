@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 03.spring boot配置原理实战 3.3.2.配置文件值注入的两种方式
 date: 2022-07-03T00:24:58.475Z
+tags: [springboot]
 ---
 # 一、使用@Value获取配置值
 

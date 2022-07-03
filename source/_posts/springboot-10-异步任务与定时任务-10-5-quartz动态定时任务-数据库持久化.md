@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 10.异步任务与定时任务 10.5.quartz动态定时任务(数据库持久化)
 date: 2022-07-03T08:43:14.346Z
+tags: [springboot]
 ---
 # 一、前言
 

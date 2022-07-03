@@ -1,6 +1,7 @@
 ---
 title: Redis 02.库和key操作命令
 date: 2022-07-01T12:36:33.661Z
+tags: [redis]
 ---
 - [key操作命令](#key操作命令)
   - [set 设置key的值](#set-设置key的值)

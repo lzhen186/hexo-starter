@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 11.redis缓存与session共享 11.6.详述缓存声明式注解的使用
 date: 2022-07-03T09:11:33.041Z
+tags: [springboot]
 ---
 # 一、缓存注解说明：
 

@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 13.服务器推送技术 13.3.双向实时通信websocket
 date: 2022-07-03T14:27:18.836Z
+tags: [springboot]
 ---
 # 一、整合websocket
 

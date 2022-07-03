@@ -1,6 +1,7 @@
 ---
 title: MyBatis 10.延迟加载
 date: 2022-07-01T06:26:14.695Z
+tags: [mybatis]
 ---
 resultMap可以实现高级映射（使用`association`、`collection`实现一对一及一对多映射），`association`、`collection`具备延迟加载功能。
 

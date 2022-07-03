@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 12.整合分布式文件系统fastdfs 12.4.整合fastdfs操作文件数据
 date: 2022-07-03T14:18:07.765Z
+tags: [springboot]
 ---
 # 一、整合fastdfs
 

@@ -1,6 +1,7 @@
 ---
 title: MongoDB 02.mongoDB账号管理
 date: 2022-07-02T00:02:56.095Z
+tags: [mongodb]
 ---
 在mongodb中有一个admin数据库，牵涉到服务器配置层面的操作，需要先切换到admin数据库，use admin命令相当于进入超级用户管理模式。
 

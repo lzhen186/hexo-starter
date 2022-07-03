@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 09.日志框架与全局日志管理 9.4.日志使用
 date: 2022-07-03T08:05:27.588Z
+tags: [springboot]
 ---
 # 默认配置
 

@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 05.spring boot web开发 5.9.SpringMVC配置
 date: 2022-07-03T04:53:42.195Z
+tags: [springboot]
 ---
 Spring Boot为Spring MVC提供了自动配置，可与大多数应用程序完美配合。
 

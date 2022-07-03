@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 10.异步任务与定时任务 10.1.实现Async异步任务
 date: 2022-07-03T08:18:34.354Z
+tags: [springboot]
 ---
 # 1. 环境准备
 

@@ -1,6 +1,7 @@
 ---
 title: Redis 10.频道发布与订阅
 date: 2022-07-01T23:36:01.126Z
+tags: [redis]
 ---
 - [1. publish 发布频道](#1-publish-发布频道)
 - [2. subscribe 订阅指定频道](#2-subscribe-订阅指定频道)

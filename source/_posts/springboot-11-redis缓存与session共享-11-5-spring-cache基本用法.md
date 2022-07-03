@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 11.redis缓存与session共享 11.5.spring cache基本用法
 date: 2022-07-03T09:07:40.330Z
+tags: [springboot]
 ---
 # 一、为什么要做缓存
 

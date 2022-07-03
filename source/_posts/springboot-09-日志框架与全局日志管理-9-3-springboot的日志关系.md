@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 09.日志框架与全局日志管理 9.3.SpringBoot的日志关系
 date: 2022-07-03T08:03:22.491Z
+tags: [springboot]
 ---
 SpringBoot使用它来做日志功能:
 

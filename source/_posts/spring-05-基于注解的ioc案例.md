@@ -1,6 +1,7 @@
 ---
 title: Spring 05.基于注解的IOC案例
 date: 2022-07-02T01:00:55.932Z
+tags: [spring]
 ---
 # Spring学习笔记（五）基于注解的IOC案例
 

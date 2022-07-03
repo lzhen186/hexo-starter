@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 09.日志框架与全局日志管理 9.5.logback日志框架整合使用
 date: 2022-07-03T08:08:39.201Z
+tags: [springboot]
 ---
 # 一、需求:
 

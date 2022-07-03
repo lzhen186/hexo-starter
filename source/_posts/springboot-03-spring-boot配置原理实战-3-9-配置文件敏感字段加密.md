@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 03.spring boot配置原理实战 3.9.配置文件敏感字段加密
 date: 2022-07-03T01:07:50.841Z
+tags: [springboot]
 ---
 # 一、`Jasypt`是什么
 

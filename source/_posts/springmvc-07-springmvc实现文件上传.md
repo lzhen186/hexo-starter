@@ -1,6 +1,7 @@
 ---
 title: SpringMVC 07.SpringMVC实现文件上传
 date: 2022-07-02T06:37:02.776Z
+tags: [springmvc]
 ---
 # 1.一般的文件上传
 

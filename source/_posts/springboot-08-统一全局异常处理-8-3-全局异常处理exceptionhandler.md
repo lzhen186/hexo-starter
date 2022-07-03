@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 08.统一全局异常处理 8.3.全局异常处理ExceptionHandler
 date: 2022-07-03T07:17:12.291Z
+tags: [springboot]
 ---
 # 一、全局异常处理器
 

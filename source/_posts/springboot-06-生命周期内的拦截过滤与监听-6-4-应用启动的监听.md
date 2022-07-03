@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 06.生命周期内的拦截过滤与监听 6.4.应用启动的监听
 date: 2022-07-03T06:49:11.844Z
+tags: [springboot]
 ---
 # 一、简介
 

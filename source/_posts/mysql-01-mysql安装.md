@@ -1,6 +1,7 @@
 ---
 title: MySQL 01.mysql安装
 date: 2022-07-01T07:50:12.829Z
+tags: [mysql]
 ---
 - [1. 在主机上安装mysql](#1-在主机上安装mysql)
 - [2. 在docker安装mysql](#2-在docker安装mysql)

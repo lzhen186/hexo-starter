@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 12.整合分布式文件系统fastdfs 12.1.fastdfs简介及架构说明
 date: 2022-07-03T14:08:22.283Z
+tags: [springboot]
 ---
 # 一、简介
 

@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.12.mybatis+atomikos实现分布式事务
 date: 2022-07-03T02:27:18.631Z
+tags: [springboot]
 ---
 # 一、整合jta-atomikos
 

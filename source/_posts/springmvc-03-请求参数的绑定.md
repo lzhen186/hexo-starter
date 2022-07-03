@@ -1,6 +1,7 @@
 ---
 title: SpringMVC 03.请求参数的绑定
 date: 2022-07-02T02:09:20.604Z
+tags: [springmvc]
 ---
 # 1.绑定说明
 

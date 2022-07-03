@@ -1,6 +1,7 @@
 ---
 title: Spring 11.Spring的JdbcTemplate
 date: 2022-07-02T01:28:52.042Z
+tags: [spring]
 ---
 # Spring学习笔记(11)Spring的JdbcTemplate
 

@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 05.spring boot web开发 5.1.webjars与静态资源
 date: 2022-07-03T04:19:08.638Z
+tags: [springboot]
 ---
 # 一、spring boot静态资源
 

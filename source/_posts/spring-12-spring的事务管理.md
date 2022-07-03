@@ -1,6 +1,7 @@
 ---
 title: Spring 12.Spring的事务管理
 date: 2022-07-02T01:34:03.062Z
+tags: [spring]
 ---
 # Spring学习笔记(12)Spring的事务管理
 

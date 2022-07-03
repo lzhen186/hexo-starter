@@ -1,6 +1,7 @@
 ---
 title: SpringMVC 02.SpringMVC的入门
 date: 2022-07-02T01:56:21.404Z
+tags: [springmvc]
 ---
 # 1.SpringMVC的入门案例
 

@@ -1,6 +1,7 @@
 ---
 title: MyBatis 13.Mybatis Generator超详细配置
 date: 2022-07-01T06:55:47.851Z
+tags: [mybatis]
 ---
 # 配置Mybatis Generator Config
 

@@ -1,6 +1,7 @@
 ---
 title: MongoDB 05.数据备份与恢复
 date: 2022-07-02T00:16:28.459Z
+tags: [mongodb]
 ---
 # 1. mongoexport导出json/csv结构化数据
 

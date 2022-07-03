@@ -1,6 +1,7 @@
 ---
 title: MyBatis 06.Mybatis的输入和输出映射
 date: 2022-07-01T05:21:39.771Z
+tags: [mybatis]
 ---
 # 1. Mybatis输入映射（掌握）
 

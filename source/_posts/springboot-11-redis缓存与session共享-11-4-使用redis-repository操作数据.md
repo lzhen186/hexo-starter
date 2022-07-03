@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 11.redis缓存与session共享 11.4.使用Redis Repository操作数据
 date: 2022-07-03T09:04:36.967Z
+tags: [springboot]
 ---
 # 一、整体操作hash对象
 

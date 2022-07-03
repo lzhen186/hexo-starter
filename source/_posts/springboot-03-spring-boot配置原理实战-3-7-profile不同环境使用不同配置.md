@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 03.spring boot配置原理实战 3.7.profile不同环境使用不同配置
 date: 2022-07-03T00:42:10.974Z
+tags: [springboot]
 ---
 # 一、配置文件规划
 

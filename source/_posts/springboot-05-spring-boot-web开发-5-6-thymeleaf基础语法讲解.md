@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 05.spring boot web开发 5.6.thymeleaf基础语法讲解
 date: 2022-07-03T04:45:39.397Z
+tags: [springboot]
 ---
 # 一、基础语法
 

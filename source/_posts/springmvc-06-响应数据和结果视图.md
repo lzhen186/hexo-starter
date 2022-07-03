@@ -1,6 +1,7 @@
 ---
 title: SpringMVC 06.响应数据和结果视图
 date: 2022-07-02T06:29:39.782Z
+tags: [springmvc]
 ---
 # 1.返回值分类
 

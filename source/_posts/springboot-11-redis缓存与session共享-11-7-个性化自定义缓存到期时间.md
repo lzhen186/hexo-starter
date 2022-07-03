@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 11.redis缓存与session共享 11.7.个性化自定义缓存到期时间
 date: 2022-07-03T09:15:00.052Z
+tags: [springboot]
 ---
 # 一、redis 缓存配置
 

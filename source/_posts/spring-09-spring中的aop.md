@@ -1,6 +1,7 @@
 ---
 title: Spring 09.Spring中的AOP
 date: 2022-07-02T01:14:37.173Z
+tags: [spring]
 ---
 # Spring学习笔记(9) Spring中的AOP
 

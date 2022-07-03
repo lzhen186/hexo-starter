@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 03.spring boot配置原理实战 3.5.加载配置文件的两种方式
 date: 2022-07-03T00:31:09.748Z
+tags: [springboot]
 ---
 # 一、为什么要学加载外部配置文件
 

@@ -1,6 +1,7 @@
 ---
 title: MongoDB 06.mongoDB的其他
 date: 2022-07-02T00:18:56.904Z
+tags: [mongodb]
 ---
 # 1. 获取mongodb状态信息
 

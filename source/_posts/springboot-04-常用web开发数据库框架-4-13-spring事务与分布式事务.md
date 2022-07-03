@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.13.Spring事务与分布式事务
 date: 2022-07-03T02:29:44.402Z
+tags: [springboot]
 ---
 # 一、事务的具体定义
 

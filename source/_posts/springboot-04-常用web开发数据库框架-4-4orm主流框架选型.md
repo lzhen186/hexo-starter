@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.4ORM主流框架选型
 date: 2022-07-03T01:31:14.659Z
+tags: [springboot]
 ---
 # 一、现状描述
 

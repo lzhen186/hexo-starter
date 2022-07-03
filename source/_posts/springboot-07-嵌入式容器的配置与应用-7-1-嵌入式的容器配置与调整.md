@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 07.嵌入式容器的配置与应用 7.1.嵌入式的容器配置与调整
 date: 2022-07-03T06:55:04.790Z
+tags: [springboot]
 ---
 # 两种方法配置调整SpringBoot应用容器的参数
 

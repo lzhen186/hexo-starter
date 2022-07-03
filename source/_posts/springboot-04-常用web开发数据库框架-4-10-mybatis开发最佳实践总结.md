@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.10.Mybatis开发最佳实践总结
 date: 2022-07-03T02:12:57.144Z
+tags: [springboot]
 ---
 # 一、 面对场景的最佳实践
 

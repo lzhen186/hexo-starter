@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.15.一行代码实现RESTFul接口
 date: 2022-07-03T02:41:37.125Z
+tags: [springboot]
 ---
 # 一、介绍spring data rest
 

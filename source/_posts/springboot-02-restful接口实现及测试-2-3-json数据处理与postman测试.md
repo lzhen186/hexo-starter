@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 02.RESTful接口实现及测试 2.3 JSON数据处理与PostMan测试
 date: 2022-07-02T10:58:44.510Z
+tags: [springboot]
 ---
 # 一、 FastJSON、Gson和Jackson对比
 

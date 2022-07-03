@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.11.Spring mybatis的多数据源实现
 date: 2022-07-03T02:23:34.882Z
+tags: [springboot]
 ---
 # 一、修改application.yml为双数据源
 

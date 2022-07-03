@@ -1,6 +1,7 @@
 ---
 title: SpringMVC 11.SpringMVC校验
 date: 2022-07-02T07:01:30.473Z
+tags: [springmvc]
 ---
 # 校验理解
 

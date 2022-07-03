@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 01.spring boot 2.x基础及概念入门 1.1.Spring Boot的核心概念
 date: 2022-07-02T08:43:33.539Z
+tags: [springboot]
 ---
 # 一、Spring Boot 、 Spring MVC 、Spring对比
 

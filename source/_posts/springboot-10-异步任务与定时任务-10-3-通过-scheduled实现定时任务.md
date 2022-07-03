@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 10.异步任务与定时任务 10.3.通过@Scheduled实现定时任务
 date: 2022-07-03T08:32:42.727Z
+tags: [springboot]
 ---
 # 一、开启定时任务方法
 

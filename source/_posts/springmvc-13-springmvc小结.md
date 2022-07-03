@@ -1,6 +1,7 @@
 ---
 title: SpringMVC 13.SpringMVC小结
 date: 2022-07-02T07:07:16.848Z
+tags: [springmvc]
 ---
 
 ## springmvc框架

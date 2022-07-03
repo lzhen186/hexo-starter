@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 08.统一全局异常处理 8.5.AOP实现完美异常处理方案
 date: 2022-07-03T07:24:00.714Z
+tags: [springboot]
 ---
 # 一、页面类异常处理
 

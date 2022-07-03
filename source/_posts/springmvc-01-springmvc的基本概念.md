@@ -1,6 +1,7 @@
 ---
 title: SpringMVC 01.SpringMVC的基本概念
 date: 2022-07-02T01:49:53.435Z
+tags: [springmvc]
 ---
 # 1.三层架构和MVC
 

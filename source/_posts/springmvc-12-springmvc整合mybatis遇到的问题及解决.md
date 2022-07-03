@@ -1,6 +1,7 @@
 ---
 title: SpringMVC 12.SpringMVC整合Mybatis遇到的问题及解决
 date: 2022-07-02T07:05:32.249Z
+tags: [springmvc]
 ---
 # 在web.xml中`<listener-class>`标签报红
 

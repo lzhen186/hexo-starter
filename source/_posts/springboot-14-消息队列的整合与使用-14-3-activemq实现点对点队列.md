@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 14.消息队列的整合与使用 14.3.activeMQ实现点对点队列
 date: 2022-07-03T14:59:11.259Z
+tags: [springboot]
 ---
 # 一、整合ActiveMQ
 

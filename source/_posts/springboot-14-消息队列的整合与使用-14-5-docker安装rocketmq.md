@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 14.消息队列的整合与使用 14.5.docker安装RocketMQ
 date: 2022-07-03T15:06:52.947Z
+tags: [springboot]
 ---
 # 一、rocketMQ部署架构
 

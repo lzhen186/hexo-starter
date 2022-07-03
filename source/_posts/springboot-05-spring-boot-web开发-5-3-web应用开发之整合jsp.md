@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 05.spring boot web开发 5.3.web应用开发之整合jsp
 date: 2022-07-03T04:32:15.514Z
+tags: [springboot]
 ---
 # 一、集成jsp
 

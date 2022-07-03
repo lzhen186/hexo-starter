@@ -1,6 +1,7 @@
 ---
 title: Redis 11.redis持久化和导入导出数据库
 date: 2022-07-01T23:40:10.558Z
+tags: [redis]
 ---
 - [1. redis持久化](#1-redis持久化)
   - [1.1. rdb快照持久化](#11-rdb快照持久化)

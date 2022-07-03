@@ -1,6 +1,7 @@
 ---
 title: Spring 06.Spring整合Junit
 date: 2022-07-02T01:03:32.524Z
+tags: [spring]
 ---
 # Spring学习笔记（六）Spring整合Junit
 

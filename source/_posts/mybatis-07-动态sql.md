@@ -1,6 +1,7 @@
 ---
 title: MyBatis 07.动态sql
 date: 2022-07-01T05:36:13.210Z
+tags: [mybatis]
 ---
 # 1. 什么是动态sql？
 mybatis核心:对sql语句进行灵活操作，通过表达式进行判断，对sql进行灵活拼接、组装。

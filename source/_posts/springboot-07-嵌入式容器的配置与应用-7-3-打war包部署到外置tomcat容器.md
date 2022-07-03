@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 07.嵌入式容器的配置与应用 7.3.打war包部署到外置tomcat容器
 date: 2022-07-03T07:01:42.253Z
+tags: [springboot]
 ---
 # 一、修改打包方式
 

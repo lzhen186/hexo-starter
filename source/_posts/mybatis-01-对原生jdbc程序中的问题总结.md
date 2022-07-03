@@ -1,6 +1,7 @@
 ---
 title: MyBatis 01.对原生jdbc程序中的问题总结
 date: 2022-07-01T04:31:40.991Z
+tags: [mybatis]
 ---
 # 1. jdbc编程步骤
 

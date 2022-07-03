@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 03.spring boot配置原理实战 3.2.详解YAML语法及占位符语法
 date: 2022-07-03T00:17:21.140Z
+tags: [springboot]
 ---
 # 1. YAML
 

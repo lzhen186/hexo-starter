@@ -1,6 +1,7 @@
 ---
 title: SpringMVC 08.SpringMVC中的拦截器
 date: 2022-07-02T06:43:35.157Z
+tags: [springmvc]
 ---
 # 1.拦截器的作用
 

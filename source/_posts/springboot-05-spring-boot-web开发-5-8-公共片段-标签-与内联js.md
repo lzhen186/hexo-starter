@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 05.spring boot web开发 5.8.公共片段(标签)与内联js
 date: 2022-07-03T04:50:28.262Z
+tags: [springboot]
 ---
 # 一、片段表达式(标签) `~{}`
 

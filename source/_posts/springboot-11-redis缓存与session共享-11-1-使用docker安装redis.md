@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 11.redis缓存与session共享 11.1.使用docker安装redis
 date: 2022-07-03T08:46:06.418Z
+tags: [springboot]
 ---
 # 一、获取 redis 镜像
 

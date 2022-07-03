@@ -1,6 +1,7 @@
 ---
 title: SpringMVC 05.常用注解
 date: 2022-07-02T06:12:05.516Z
+tags: [springmvc]
 ---
 # 1.RequestParam
 

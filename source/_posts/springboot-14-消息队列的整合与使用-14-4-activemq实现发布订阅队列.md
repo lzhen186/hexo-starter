@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 14.消息队列的整合与使用 14.4.activeMQ实现发布订阅队列
 date: 2022-07-03T15:03:47.043Z
+tags: [springboot]
 ---
 +# 一、实现发布订阅模型消息
 

@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.1.整合Spring JDBC操作数据
 date: 2022-07-03T01:13:36.202Z
+tags: [springboot]
 ---
 # 一、jdbc简介
 

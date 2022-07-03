@@ -1,6 +1,7 @@
 ---
 title: Redis 03.字符串类型操作
 date: 2022-07-01T12:40:46.002Z
+tags: [redis]
 ---
 - [set 设置kv、效期、判断key是否存在](#set-设置kv效期判断key是否存在)
 - [mset 一次性输入多个kv](#mset-一次性输入多个kv)

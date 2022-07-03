@@ -1,6 +1,7 @@
 ---
 title: MongoDB 01.mongoDB的安装
 date: 2022-07-01T23:58:22.163Z
+tags: [mongodb]
 ---
 官网: [https://www.mongodb.org](https://www.mongodb.org/)
 

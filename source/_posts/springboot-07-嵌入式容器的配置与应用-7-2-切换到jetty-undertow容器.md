@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 07.嵌入式容器的配置与应用 7.2.切换到jetty&undertow容器
 date: 2022-07-03T06:59:44.130Z
+tags: [springboot]
 ---
 # 一、配置
 

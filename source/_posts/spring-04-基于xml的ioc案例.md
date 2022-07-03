@@ -1,6 +1,7 @@
 ---
 title: Spring 04.基于xml的IOC案例
 date: 2022-07-02T00:56:18.224Z
+tags: [spring]
 ---
 # Spring学习笔记（四）基于xml的IOC案例
 

@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.14.整合Spring data mongodb操作数据
 date: 2022-07-03T02:38:20.458Z
+tags: [springboot]
 ---
 
 

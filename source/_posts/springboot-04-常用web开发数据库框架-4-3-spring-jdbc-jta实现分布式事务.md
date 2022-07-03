@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.3.Spring JDBC JTA实现分布式事务
 date: 2022-07-03T01:25:18.808Z
+tags: [springboot]
 ---
 # 一、举例说明分布式事务
 

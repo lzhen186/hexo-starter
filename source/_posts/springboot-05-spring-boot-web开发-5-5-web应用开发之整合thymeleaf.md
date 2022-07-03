@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 05.spring boot web开发 5.5.web应用开发之整合thymeleaf
 date: 2022-07-03T04:41:25.320Z
+tags: [springboot]
 ---
 # 一、Thymeleaf简介
 

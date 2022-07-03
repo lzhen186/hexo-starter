@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 12.整合分布式文件系统fastdfs 12.3.开发一个自定义fastdfs-starter
 date: 2022-07-03T14:12:48.567Z
+tags: [springboot]
 ---
 # 一、主要实现的功能
 

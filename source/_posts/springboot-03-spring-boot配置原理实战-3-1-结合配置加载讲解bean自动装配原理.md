@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 03.spring boot配置原理实战 3.1.结合配置加载讲解bean自动装配原理
 date: 2022-07-02T11:42:09.334Z
+tags: [springboot]
 ---
 # 一、全局配置文件
 

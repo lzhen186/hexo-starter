@@ -1,6 +1,7 @@
 ---
 title: Redis 08.经纬度数据操作
 date: 2022-07-01T23:25:18.613Z
+tags: [redis]
 ---
 - [1. geoadd 添加地理位置信息](#1-geoadd-添加地理位置信息)
 - [2. geopos 查询位置的坐标](#2-geopos-查询位置的坐标)

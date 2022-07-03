@@ -1,6 +1,7 @@
 ---
 title: Spring 10.Spring的AspectJ的AOP
 date: 2022-07-02T01:22:39.114Z
+tags: [spring]
 ---
 # Spring学习笔记(10)Spring的AspectJ的AOP
 

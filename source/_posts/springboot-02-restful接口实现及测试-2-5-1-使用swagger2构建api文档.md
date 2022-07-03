@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 02.RESTful接口实现及测试 2.5.1. 使用Swagger2构建API文档
 date: 2022-07-02T11:29:02.093Z
+tags: [springboot]
 ---
 # 一、为什么要发布API接口文档
 

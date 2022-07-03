@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 14.消息队列的整合与使用 14.6.RocketMQ实现2种消费模式
 date: 2022-07-03T15:09:56.528Z
+tags: [springboot]
 ---
 # 一、引入依赖
 

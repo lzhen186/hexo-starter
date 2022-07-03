@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 03.spring boot配置原理实战 3.4.配置文件注入值数据校验
 date: 2022-07-03T00:27:29.941Z
+tags: [springboot]
 ---
 # 一、如何对注入的属性进行校验
 

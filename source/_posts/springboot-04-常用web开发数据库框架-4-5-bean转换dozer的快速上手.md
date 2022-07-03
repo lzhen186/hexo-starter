@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 04.常用web开发数据库框架 4.5.bean转换Dozer的快速上手
 date: 2022-07-03T01:39:06.149Z
+tags: [springboot]
 ---
 # 一、为什么要做bean赋值转换
 

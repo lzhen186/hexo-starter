@@ -1,6 +1,7 @@
 ---
 title: MySQL 04.表的增删改查
 date: 2022-07-01T08:05:12.685Z
+tags: [mysql]
 ---
 - [1. insert 插入数据操作](#1-insert-插入数据操作)
 - [2. delete 删除数据操作](#2-delete-删除数据操作)

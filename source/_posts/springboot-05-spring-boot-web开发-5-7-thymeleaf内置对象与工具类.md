@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 05.spring boot web开发 5.7.thymeleaf内置对象与工具类
 date: 2022-07-03T04:47:57.115Z
+tags: [springboot]
 ---
 # 一、内置对象
 

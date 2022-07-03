@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 02.RESTful接口实现及测试 2.2.1.Spring常用注解的讲解
 date: 2022-07-02T09:29:33.191Z
+tags: [springboot]
 ---
 # 一、常用注解回顾
 

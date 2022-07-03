@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 02.RESTful接口实现及测试 2.1.RESTful接口与http协议状态表述
 date: 2022-07-02T09:19:40.831Z
+tags: [springboot]
 ---
 # 一、RESTful风格API的好处
 

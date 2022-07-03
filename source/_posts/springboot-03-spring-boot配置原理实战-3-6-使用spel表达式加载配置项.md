@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 03.spring boot配置原理实战 3.6.使用SpEL表达式加载配置项
 date: 2022-07-03T00:36:26.709Z
+tags: [springboot]
 ---
 Spring Expression Language (SpEL)是一种功能非常强大的表达式语言，可用于在运行时查询和操作对象。 SpEL书写在XML配置文件或者Annotation注解上，在Spring Bean的创建过程中生效。
 
