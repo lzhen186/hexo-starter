@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 16.响应式框架webflux 16.1.webflux快速入门
 date: 2022-07-04T00:18:57.142Z
+tags: [springboot]
 ---
 # 一、Reactive Stack简介
 
