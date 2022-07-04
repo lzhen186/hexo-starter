@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 16.响应式框架webflux 16.3.webflux整合mongodb
 date: 2022-07-04T00:37:29.982Z
+tags: [springboot]
 ---
 # 一、新增 POM 依赖与配置
 
