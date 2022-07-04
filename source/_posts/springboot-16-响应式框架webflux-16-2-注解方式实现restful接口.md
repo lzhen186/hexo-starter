@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 16.响应式框架webflux 16.2.注解方式实现restful接口
 date: 2022-07-04T00:31:35.935Z
+tags: [springboot]
 ---
 # 一、通过注解方式实现RestFul接口
 
