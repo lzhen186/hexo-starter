@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 17.应用程序监控管理 17.1.Actuator应用监控快速入门
 date: 2022-07-04T01:08:27.763Z
+tags: [springboot]
 ---
 # 一、Spring Boot Actuator简介
 
