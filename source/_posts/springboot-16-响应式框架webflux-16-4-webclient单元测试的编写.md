@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 16.响应式框架webflux 16.4.webclient单元测试的编写
 date: 2022-07-04T01:01:37.913Z
+tags: [springboot]
 ---
 # 一、使用@SpringBootTest测试
 
