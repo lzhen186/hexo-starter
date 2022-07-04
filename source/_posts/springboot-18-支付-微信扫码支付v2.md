@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 18.支付 微信扫码支付V2
 date: 2022-07-04T01:16:43.608Z
+tags: [springboot]
 ---
 ## SPRING BOOT集成微信NATIVE扫码支付
 
