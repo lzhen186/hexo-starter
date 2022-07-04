@@ -1,6 +1,7 @@
 ---
 title: SpringBoot 15.邮件发送的整合与使用 15.2.发送html和基于模板的邮件
 date: 2022-07-04T00:09:08.499Z
+tags: [springboot]
 ---
 # 一、发送html邮件服务
 
