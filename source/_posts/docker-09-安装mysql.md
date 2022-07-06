@@ -16,7 +16,7 @@ echo $PWD
 ## 3.新建容器
 
 ```dockerfile
-docker run --name mysqlserver -v $PWD/conf:/etc/mysql/conf.d -v $PWD/logs:/logs -v $PWD/data:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=111111 -d -i -p 3306:3306 mysql:5.7
+docker run --name mysqlserver --privileged=true  -v $PWD/conf:/etc/mysql/conf.d -v $PWD/logs:/logs -v $PWD/data:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=111111 -d -i -p 3306:3306 mysql:5.7
 ```
 
 查看容器位置 ： cd /var/lib/docker/containers/
@@ -41,6 +41,3 @@ flush privileges;
 ## 6.查看docker日志
 
 docker logs -f --tail 10  *containerID*
-
-
-
