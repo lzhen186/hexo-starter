@@ -1,5 +1,5 @@
 ---
-title: Docker 09.安装nginx
+title: Docker 10.安装nginx
 date: 2022-07-06T05:48:26.832Z
 ---
 ## 1.下载镜像
