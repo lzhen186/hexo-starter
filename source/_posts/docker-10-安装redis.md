@@ -29,8 +29,5 @@ bind 127.0.0.1        # 注释掉这部分，这是限制redis只能本地访问
 ## 3.新建容器
 
 ```
- docker run -d -p 6379:6379 --restart always --name some-redis  -v /opt/redis_docker/conf/redis.conf:/etc/redis/redis.conf  -v /opt/redis_docker/data:/data  redis redis-server /etc/redis/redis.conf  --requirepass "111111" --appendonly yes
+ docker run -d -p 6379:6379 --restart always --name some-redis --privileged=true  -v /opt/redis_docker/conf/redis.conf:/etc/redis/redis.conf  -v /opt/redis_docker/data:/data  redis redis-server /etc/redis/redis.conf  --requirepass "111111" --appendonly yes
 ```
-
-
-
