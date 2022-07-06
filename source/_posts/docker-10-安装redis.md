@@ -1,5 +1,5 @@
 ---
-title: Docker 10.安装redis
+title: Docker 11.安装redis
 date: 2022-07-06T05:49:05.749Z
 ---
 ## 1.下载镜像
