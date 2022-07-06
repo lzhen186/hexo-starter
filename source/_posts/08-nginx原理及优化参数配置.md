@@ -1,5 +1,5 @@
 ---
-title: 08-Nginx原理及优化参数配置
+title: Nginx 08-Nginx原理及优化参数配置
 date: 2022-07-06T05:38:43.710Z
 ---
 - [1. master和worker](#1-master和worker)
