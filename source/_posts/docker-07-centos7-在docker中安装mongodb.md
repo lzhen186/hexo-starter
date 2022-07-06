@@ -8,28 +8,24 @@ date: 2022-07-06T05:45:23.796Z
 
 ```
 docker search mongo
-
 ```
 
 二、**拉取mongo最新镜像**
 
 ```
 docker pull mongo
-
 ```
 
 三、**创建好mongo存储路径，便于后面做挂载**
 
 ```
 mkdir -p /data/mongo
-
 ```
 
 四、**运行镜像**
 
 ```
-docker run --restart=always --name mongo -v /data/mongo:/data/db -p 27017:27017 -d mongo --auth
-
+docker run --restart=always --name mongo --privileged=true -v /data/mongo:/data/db -p 27017:27017 -d mongo --auth
 ```
 
 返回dockerid说明执行成功
@@ -47,7 +43,6 @@ docker run --restart=always --name mongo -v /data/mongo:/data/db -p 27017:27017 
 
 ```
 docker ps -a
-
 ```
 
 ![img](https://img2020.cnblogs.com/blog/308699/202009/308699-20200915225159952-81532718.png)
@@ -57,28 +52,24 @@ docker ps -a
 
 ```
 docker exec -it mongo bash
-
 ```
 
 进入mongo
 
 ```
 mongo
-
 ```
 
 使用admin
 
 ```
 use admin
-
 ```
 
 创建一个账户密码.（注意：没有创建过用户才可以不需要auth直接创建，否则先登录`db.auth('zhangsan','123456')`）才能创建，也就是只要创建过一次用户了都需要先auth才能操作，或者也可以把/data/mongo目录全部清空创建新容器(会丢失数据)
 
 ```
 db.createUser({user:"zhangsan",pwd:"123456",roles:[{role:'root',db:'admin'}]})
-
 ```
 
 如果需要退出mongo，执行指令`exit`，图如下
@@ -99,14 +90,12 @@ MongoDB基本的角色
 ```
 apt-get update
 apt-get install vim -y
-
 ```
 
 修改mongo配置文件，运行远程访问
 
 ```
 vim /etc/mongod.conf.orig
-
 ```
 
 将其中的 bindIp: 127.0.0.1 注释或者改为0.0.0.0，保存:wq并退出
@@ -115,7 +104,6 @@ vim /etc/mongod.conf.orig
 
 ```
 docker restart mongo
-
 ```
 
 八、**测试远程连接mongodb，下图用的navicat**
@@ -132,7 +120,6 @@ docker exec -it mongo bash
 mongo
 use admin
 db.auth('zhangsan','123456')
-
 ```
 
 返回1说明登录成功了
@@ -143,7 +130,6 @@ db.auth('zhangsan','123456')
 use test
 db.test.save({name: 'test', age: '18'})
 db.test.find();
-
 ```
 
 ![img](https://img2020.cnblogs.com/blog/308699/202009/308699-20200915232830630-1066069423.png)
