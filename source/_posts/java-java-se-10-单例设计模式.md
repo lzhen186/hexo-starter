@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 10.单例设计模式
 date: 2022-07-04T05:42:23.179Z
+tags: [javase]
 ---
 # 1. 单例设计模式的作用
 

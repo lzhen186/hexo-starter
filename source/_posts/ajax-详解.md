@@ -1,6 +1,7 @@
 ---
 title: AJAX 详解
 date: 2022-07-07T00:15:57.956Z
+tags: [ajax]
 ---
 # 1. 什么是Ajax
 

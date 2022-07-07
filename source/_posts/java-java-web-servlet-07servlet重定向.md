@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 07Servlet重定向
 date: 2022-07-06T01:37:53.668Z
+tags: [javaweb]
 ---
 `HttpServletResponse`接口的`sendRedirect()`方法可以用于将响应重定向到另一个资源，资源可能是`servlet`，`jsp`或`html`文件。
 它接受相对和绝对URL。

@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 40.IO
 date: 2022-07-05T01:13:56.300Z
+tags: [javase]
 ---
 # 1.IO概述
 

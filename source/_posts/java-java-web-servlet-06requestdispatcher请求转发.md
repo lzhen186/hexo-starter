@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 06RequestDispatcher请求转发
 date: 2022-07-06T01:37:07.862Z
+tags: [javaweb]
 ---
 `RequestDispatcher`接口提供将请求转发送到另一个资源的功能，它可能是`html`，`servlet`或`jsp`等。 此接口也可用于包括另一资源的内容。它是servlet协作的一种方式。
 在`RequestDispatcher`接口中定义了两种方法。它们分别是

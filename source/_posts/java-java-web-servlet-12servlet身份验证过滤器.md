@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 12Servlet身份验证过滤器
 date: 2022-07-06T01:41:56.082Z
+tags: [javaweb]
 ---
 # 使用过滤器验证用户的示例
 下面来看看如何使用过滤器验证用户的简单示例。

@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 34.volatile关键字
 date: 2022-07-05T00:33:03.125Z
+tags: [javase]
 ---
 # 1.看程序说结果
 

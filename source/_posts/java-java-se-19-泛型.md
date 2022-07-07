@@ -1,6 +1,7 @@
 ---
 title: " Java Java SE 19.泛型"
 date: 2022-07-04T09:15:31.748Z
+tags: [javase]
 ---
 ![什么是泛型](https://cdn.jsdelivr.net/gh/krislinzhao/IMGcloud/img/20200227155617.png)
 

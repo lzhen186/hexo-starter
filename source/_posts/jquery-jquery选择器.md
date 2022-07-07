@@ -1,6 +1,7 @@
 ---
 title: JQuery JQuery选择器
 date: 2022-07-07T00:14:34.697Z
+tags: [jquery]
 ---
 # 元素 $("tagName")
 根据 标签名 选择所有该标签的元素

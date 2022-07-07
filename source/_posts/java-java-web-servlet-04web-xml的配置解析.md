@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 04web.xml的配置解析
 date: 2022-07-06T01:35:36.243Z
+tags: [javaweb]
 ---
 # welcome-file-list
 在`web.xml`文件中的`web-app`块的`welcome-file-list`子元素用于定义欢迎文件列表。 它的子元素是`welcome-file`，用于定义欢迎文件(即默认打开的页面)。

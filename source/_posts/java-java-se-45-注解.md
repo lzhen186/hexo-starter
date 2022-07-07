@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 45.注解
 date: 2022-07-05T08:09:19.769Z
+tags: [javase]
 ---
 [秒懂，Java 注解 （Annotation）你可以这样学](https://blog.csdn.net/briblue/article/details/73824058)
 

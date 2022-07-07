@@ -1,6 +1,7 @@
 ---
 title: Docker 09.安装mysql
 date: 2022-07-06T05:47:37.409Z
+tags: [docker]
 ---
 ## 1.下载镜像
 

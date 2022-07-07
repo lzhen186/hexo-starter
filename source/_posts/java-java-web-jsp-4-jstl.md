@@ -1,6 +1,7 @@
 ---
 title: Java Java Web JSP 4.JSTL
 date: 2022-07-06T01:21:18.592Z
+tags: [javaweb]
 ---
 在页面中使用JSTL需要在jsp中 通过指令进行设置
 ~~~jap

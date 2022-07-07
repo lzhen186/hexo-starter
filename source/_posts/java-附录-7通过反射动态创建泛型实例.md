@@ -1,6 +1,7 @@
 ---
 title: Java 附录 7通过反射动态创建泛型实例
 date: 2022-07-06T01:59:15.133Z
+tags: [javase]
 ---
 ```java
 public class BasePresenter<V extends BaseView,M extends BaseModel>{

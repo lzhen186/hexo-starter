@@ -1,6 +1,7 @@
 ---
 title: Java Java Web JSP 2.HelloJSP
 date: 2022-07-06T01:11:52.223Z
+tags: [javaweb]
 ---
 ~~~jsp
 <%@page contentType="text/html; charset=UTF-8"

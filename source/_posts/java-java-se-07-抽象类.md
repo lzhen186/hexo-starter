@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 07.抽象类
 date: 2022-07-04T05:27:35.707Z
+tags: [javase]
 ---
 # 1. 概述
 

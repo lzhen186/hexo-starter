@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 15Servlet Cookies
 date: 2022-07-06T01:44:29.017Z
+tags: [javaweb]
 ---
 Cookie是在多个客户端请求之间持久存储的一小段信息。
 Cookie具有名称，单个值和可选属性，例如注释，路径和域限定符，生存周期和版本号。

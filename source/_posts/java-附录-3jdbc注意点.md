@@ -1,6 +1,7 @@
 ---
 title: Java 附录 3JDBC注意点
 date: 2022-07-06T01:53:32.815Z
+tags: [javase]
 ---
 # Statement和PreparedStatement的区别
 

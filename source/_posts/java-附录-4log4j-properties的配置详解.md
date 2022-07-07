@@ -1,6 +1,7 @@
 ---
 title: Java 附录 4log4j.properties的配置详解
 date: 2022-07-06T01:56:37.430Z
+tags: [javase]
 ---
 # 一.参数意义说明
 ## 输出级别的种类

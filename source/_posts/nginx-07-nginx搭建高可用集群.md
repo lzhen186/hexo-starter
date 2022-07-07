@@ -1,6 +1,7 @@
 ---
 title: Nginx 07-Nginx搭建高可用集群
 date: 2022-07-06T05:37:49.317Z
+tags: [nginx]
 ---
 - [1. Keepalived+Nginx 高可用集群（主从模式）](#1-keepalivednginx-高可用集群主从模式)
 - [2. 配置高可用的准备工作](#2-配置高可用的准备工作)

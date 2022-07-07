@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 20基于WEB应用的MVC(Model2)
 date: 2022-07-06T01:48:49.397Z
+tags: [javaweb]
 ---
 传统的桌面应用程序的MVC架构
 ![](../../images/桌面应用的MVC.jpg)

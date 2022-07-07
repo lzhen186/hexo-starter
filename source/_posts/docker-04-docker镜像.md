@@ -1,6 +1,7 @@
 ---
 title: Docker 04.Docker镜像
 date: 2022-07-06T05:43:16.240Z
+tags: [docker]
 ---
 - [1. UnionFS 联合文件系统](#1-unionfs-联合文件系统)
 - [2. Docker 镜像加载原理](#2-docker-镜像加载原理)

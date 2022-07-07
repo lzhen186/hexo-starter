@@ -1,6 +1,7 @@
 ---
 title: Nginx 08-Nginx原理及优化参数配置
 date: 2022-07-06T05:38:43.710Z
+tags: [nginx]
 ---
 - [1. master和worker](#1-master和worker)
 - [2. worker如何进行工作](#2-worker如何进行工作)

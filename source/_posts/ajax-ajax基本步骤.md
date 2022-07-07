@@ -1,6 +1,7 @@
 ---
 title: AJAX AJAX基本步骤
 date: 2022-07-06T05:57:16.933Z
+tags: [ajax]
 ---
 # AJAX请求
 ![](https://gitee.com/krislin_zhao/IMGcloud/raw/master/img/20200605115127.png)

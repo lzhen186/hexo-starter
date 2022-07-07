@@ -1,6 +1,7 @@
 ---
 title: Java 附录 5log4j.xml的配置详解
 date: 2022-07-06T01:57:27.794Z
+tags: [javase]
 ---
 # Appender
 Appender：日志输出器，配置日志的输出级别、输出位置等，包括以下几类：

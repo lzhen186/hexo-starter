@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 03Sevlet的工作流程
 date: 2022-07-06T01:34:38.992Z
+tags: [javaweb]
 ---
 # Servlet是如何工作的？
 了解servlet如何工作对了解servlet内部工作流程很重要。 在这里，我们将以第一个servlet程序来讲解它的内部细节。

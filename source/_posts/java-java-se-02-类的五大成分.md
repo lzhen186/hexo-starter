@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 02.类的五大成分
 date: 2022-07-04T01:54:24.698Z
+tags: [javase]
 ---
 类中有且仅有5大成分（五大金刚）
 

@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 01创建servlet实例的方法
 date: 2022-07-06T01:32:36.027Z
+tags: [javaweb]
 ---
 # 1.通过实现Servlet接口的Servlet实例
 需要实现`Servlet`接口来创建任何`servlet`(直接或间接)。它提供了**3**个生命周期方法，用于初始化`servlet`，服务请求以及销毁`servlet`和**2**个非生命周期方法。

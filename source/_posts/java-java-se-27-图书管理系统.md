@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 27.图书管理系统
 date: 2022-07-04T12:15:54.542Z
+tags: [javase]
 ---
 # 1.图书管理系统项目演示
 

@@ -1,6 +1,7 @@
 ---
 title: Docker 11.安装redis
 date: 2022-07-06T05:49:05.749Z
+tags: [docker]
 ---
 ## 1.下载镜像
 

@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 03.Java内部类详解
 date: 2022-07-04T01:58:04.495Z
+tags: [javase]
 ---
 # 1. 内部类基础
 

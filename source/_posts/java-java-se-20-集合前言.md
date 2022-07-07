@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 20.集合前言
 date: 2022-07-04T10:11:47.146Z
+tags: [javase]
 ---
 # 1.为什么需要Java集合
 

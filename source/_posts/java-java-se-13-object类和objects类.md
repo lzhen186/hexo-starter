@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 13.Object类和Objects类
 date: 2022-07-04T06:13:15.846Z
+tags: [javase]
 ---
 # 1. Object类
 

@@ -1,6 +1,7 @@
 ---
 title: Java Java Web JSP 3.JSP基本语法
 date: 2022-07-06T01:13:18.456Z
+tags: [javaweb]
 ---
 # JSP 声明
 `<%! declaration; [ declaration; ]+ ... %>`

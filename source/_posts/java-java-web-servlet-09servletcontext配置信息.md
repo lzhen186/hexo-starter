@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 09ServletContext配置信息
 date: 2022-07-06T01:39:33.109Z
+tags: [javaweb]
 ---
 # 为什么使用ServletContext
 `ServletContext`的对象由Web容器在部署项目时创建。 该对象可用于从`web.xml`文件获取配置信息。 每个Web应用程序只有一个`ServletContext`对象。

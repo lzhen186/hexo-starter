@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 12.包和权限修饰符
 date: 2022-07-04T06:12:33.101Z
+tags: [javase]
 ---
 # 1. 包
 

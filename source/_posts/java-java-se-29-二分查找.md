@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 29.二分查找
 date: 2022-07-04T12:19:19.086Z
+tags: [javase]
 ---
 # 1.普通查找和二分查找
 

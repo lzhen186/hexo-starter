@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 16.StringBuilder类
 date: 2022-07-04T09:12:34.127Z
+tags: [javase]
 ---
 # 1. 字符串拼接问题
 

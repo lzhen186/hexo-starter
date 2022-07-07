@@ -1,6 +1,7 @@
 ---
 title: JQuery JQuery常见方法
 date: 2022-07-07T00:13:46.754Z
+tags: [jquery]
 ---
 # 取值
 通过JQuery对象的`val()`方法获取值

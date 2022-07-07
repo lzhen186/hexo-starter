@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 19WEB容器
 date: 2022-07-06T01:47:54.419Z
+tags: [javaweb]
 ---
 # WEB 容器的概念
 当开始编写Servlet/JSP程序时，必须开始接触容器（Container）的概念，容器这个名词也用在如List、set这类的collection上，也就是用来持有、保存对象的集合（Collection）对象。对于编写Servle/JSP来说，容器的概念更广，它不仅持有对象，还负责对象的生命周期与相关服务的连接。

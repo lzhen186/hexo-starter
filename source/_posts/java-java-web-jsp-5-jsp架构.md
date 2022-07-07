@@ -1,6 +1,7 @@
 ---
 title: Java Java Web JSP 5.JSP架构
 date: 2022-07-06T01:22:47.544Z
+tags: [javaweb]
 ---
 Web服务器需要一个JSP引擎，即一个处理JSP页面的容器(类似于：Tomcat和Jetty)。 JSP容器负责拦截JSP页面的请求。本教程使用内置JSP容器的Apache Tomcat来支持JSP页面的开发。
 JSP容器与Web服务器配合使用以提供运行时环境和JSP需要的其他服务。它知道如何解释作为JSP一部分的特殊元素。

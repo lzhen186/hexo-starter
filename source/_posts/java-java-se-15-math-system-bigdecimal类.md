@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 15.Math,System,BigDecimal类
 date: 2022-07-04T06:15:50.132Z
+tags: [javase]
 ---
 # 1. Math类
 

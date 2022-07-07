@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 13FilterConfig应用示例
 date: 2022-07-06T01:42:46.776Z
+tags: [javaweb]
 ---
 `FilterConfig`的对象由Web容器创建。这个对象可用于获取`web.xml`文件中的配置信息。
 

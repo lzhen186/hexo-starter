@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 21虚拟路径和虚拟主机
 date: 2022-07-06T01:49:42.083Z
+tags: [javaweb]
 ---
 # jsp: 在HTML中嵌套的java代码
 在项目的WEB-INF/web.xml中设置的 初始页面

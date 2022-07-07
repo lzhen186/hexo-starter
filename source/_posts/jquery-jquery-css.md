@@ -1,6 +1,7 @@
 ---
 title: JQuery JQuery CSS
 date: 2022-07-07T00:12:44.431Z
+tags: [jquery]
 ---
 # 增加class
 通过addClass() 增加一个样式中的class

@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 49.工厂模式&装饰模式
 date: 2022-07-05T08:12:14.204Z
+tags: [javase]
 ---
 # 1.工厂模式
 

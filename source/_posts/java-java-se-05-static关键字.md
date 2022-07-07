@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 05.static关键字
 date: 2022-07-04T02:27:50.104Z
+tags: [javase]
 ---
 # 1. 什么是static关键字
 

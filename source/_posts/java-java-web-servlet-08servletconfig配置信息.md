@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 08ServletConfig配置信息
 date: 2022-07-06T01:38:41.990Z
+tags: [javaweb]
 ---
 # 为什么使用ServletConfig
 `ServletConfig`对象是由每个servlet的Web容器创建的。这个对象可用于从`web.xml`文件获取配置信息。

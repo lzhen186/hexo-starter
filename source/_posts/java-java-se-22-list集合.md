@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 22.List集合
 date: 2022-07-04T10:14:15.330Z
+tags: [javase]
 ---
 # 1.List接口介绍
 

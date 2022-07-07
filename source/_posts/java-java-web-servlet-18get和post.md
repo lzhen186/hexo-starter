@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 18GET和POST
 date: 2022-07-06T01:47:00.132Z
+tags: [javaweb]
 ---
 # HTTP协议两个重要的特性
 * 基于请求（Request）/响应（Response）模型

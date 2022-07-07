@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 05ServletRequest接口
 date: 2022-07-06T01:36:25.021Z
+tags: [javaweb]
 ---
 # ServletRequest接口
 `ServletReques`t的对象用于向Servlet提供客户端请求信息，如内容类型，内容长度，参数名称和值，标题信息，属性等。

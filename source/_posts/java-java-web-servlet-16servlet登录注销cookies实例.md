@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 16Servlet登录注销Cookies实例
 date: 2022-07-06T01:45:19.058Z
+tags: [javaweb]
 ---
 在这个应用程序中，创建了以下文件。
 * index.html - Web应用程序首页。

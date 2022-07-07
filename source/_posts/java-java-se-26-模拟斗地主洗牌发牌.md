@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 26.模拟斗地主洗牌发牌
 date: 2022-07-04T12:14:56.194Z
+tags: [javase]
 ---
 # 1.案例介绍
 

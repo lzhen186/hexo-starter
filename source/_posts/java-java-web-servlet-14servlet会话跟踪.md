@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 14Servlet会话跟踪
 date: 2022-07-06T01:43:34.533Z
+tags: [javaweb]
 ---
 会话只是指一段指定的时间间隔。
 会话跟踪是维护用户状态(数据)的一种方式。它也被称为servlet中的会话管理。

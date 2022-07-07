@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 11.枚举
 date: 2022-07-04T06:11:31.321Z
+tags: [javase]
 ---
 # 1. 不适用枚举存在的问题
 

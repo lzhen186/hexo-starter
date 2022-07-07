@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 38.JDK8新特性
 date: 2022-07-05T01:10:12.796Z
+tags: [javase]
 ---
 # 1.Lambda表达式
 

@@ -1,6 +1,7 @@
 ---
 title: Java Java Web JSP 4.EL
 date: 2022-07-06T01:20:09.125Z
+tags: [javaweb]
 ---
 # 取值
 

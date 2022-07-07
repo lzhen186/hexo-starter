@@ -1,6 +1,7 @@
 ---
 title: Docker 06.DockerFile解析
 date: 2022-07-06T05:44:41.828Z
+tags: [docker]
 ---
 - [1. 什么是 DockerFile](#1-什么是-dockerfile)
 - [2. DockerFile 构建过程解析](#2-dockerfile-构建过程解析)

@@ -1,6 +1,7 @@
 ---
 title: Java Java Web JSP 3.JSP生命周期
 date: 2022-07-06T01:17:13.250Z
+tags: [javaweb]
 ---
 # JSP执行过程
 以下是JSP遵循的过程 

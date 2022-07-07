@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 24.数据结构
 date: 2022-07-04T10:19:01.994Z
+tags: [javase]
 ---
 # 1.数据结构有什么用
 

@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 22.Map集合
 date: 2022-07-04T10:16:30.095Z
+tags: [javase]
 ---
 # 1.Map介绍
 

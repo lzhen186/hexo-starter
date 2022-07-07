@@ -1,6 +1,7 @@
 ---
 title: HTML HTML笔记
 date: 2022-07-06T05:55:34.137Z
+tags: [html]
 ---
 # [HTML元素网站](http://www.html5star.com/manual/html5label-meaning/)
 

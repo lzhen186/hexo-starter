@@ -1,6 +1,7 @@
 ---
 title: Java 附录 6什么是OOM,怎么解决OOM
 date: 2022-07-06T01:58:25.093Z
+tags: [javase]
 ---
 # 1.什么是OOM？
 

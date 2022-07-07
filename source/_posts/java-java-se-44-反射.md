@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 44.反射
 date: 2022-07-05T08:08:26.642Z
+tags: [javase]
 ---
 [学习java应该如何理解反射？](https://www.zhihu.com/question/24304289)
 [Java中反射机制详解](https://www.cnblogs.com/whgk/p/6122036.html)

@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 10Servlet属性设置
 date: 2022-07-06T01:40:18.370Z
+tags: [javaweb]
 ---
 Servlet中的属性是可以从以下范围之一设置，获取或删除的对象：
 

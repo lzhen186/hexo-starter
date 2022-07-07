@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 46.动态代理
 date: 2022-07-05T08:10:09.362Z
+tags: [javase]
 ---
 # 1.代理模式【Proxy Pattern】
 

@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 21.Collection
 date: 2022-07-04T10:13:04.589Z
+tags: [javase]
 ---
 # 1. Collection集合
 

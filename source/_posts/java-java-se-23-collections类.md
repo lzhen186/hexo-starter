@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 23.Collections类
 date: 2022-07-04T10:18:01.822Z
+tags: [javase]
 ---
 # 1.Collections常用功能
 

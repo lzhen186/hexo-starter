@@ -1,6 +1,7 @@
 ---
 title: Java Java Web Servlet 02Sevlet的生命周期
 date: 2022-07-06T01:33:45.399Z
+tags: [javaweb]
 ---
 ![](../../../images/Servlet的生命周期.png)
 Web容器维护servlet实例的生命周期。下面来看看servlet的生命周期，主要分为以下几个步骤：

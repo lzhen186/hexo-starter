@@ -1,6 +1,7 @@
 ---
 title: Docker 08.Docker方式启动tomcat,访问首页出现404错误
 date: 2022-07-06T05:46:54.386Z
+tags: [docker]
 ---
 - [场景](#场景)
 - [初步解决](#初步解决)

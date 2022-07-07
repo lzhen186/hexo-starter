@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 08.接口
 date: 2022-07-04T05:40:04.235Z
+tags: [javase]
 ---
 # 1. 概述
 

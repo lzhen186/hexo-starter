@@ -1,6 +1,7 @@
 ---
 title: Docker 07.centos7 在docker中安装mongodb
 date: 2022-07-06T05:45:23.796Z
+tags: [docker]
 ---
 # [centos7 在docker中安装mongodb](https://www.cnblogs.com/nickchou/p/13676111.html)
 

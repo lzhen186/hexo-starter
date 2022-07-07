@@ -1,6 +1,7 @@
 ---
 title: Nginx 05-Nginx配置实例-负载均衡
 date: 2022-07-06T05:35:18.662Z
+tags: [nginx]
 ---
 - [1. **首先准备两个同时启动的** **Tomcat**](#1-首先准备两个同时启动的-tomcat)
 - [2. **在 nginx.conf 中进行配置**](#2-在-nginxconf-中进行配置)

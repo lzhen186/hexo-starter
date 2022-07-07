@@ -1,6 +1,7 @@
 ---
 title: Java Java SE 35.原子性
 date: 2022-07-05T00:34:17.040Z
+tags: [javase]
 ---
 # 1.看程序说结果
 
