@@ -443,31 +443,126 @@ and  sc.score>80
 
 32. 求每门课程的学生人数
 
+``` mysql
+select sc.CId,count(*) as 学生人数
+from sc
+GROUP BY sc.CId
+```
+
 33. 成绩不重复，查询选修「张三」老师所授课程的学生中，成绩最高的学生信息及其成绩
+
+``` mysql
+select student.*,sc.score
+from student ,course ,teacher ,sc
+where course.CId=sc.CId
+and course.TId=teacher.TId
+and teacher.Tname='张三'
+and student.SId =sc.SId
+LIMIT 1
+```
 
 34. 成绩有重复的情况下，查询选修「张三」老师所授课程的学生中，成绩最高的学生信息及其成绩
 
+``` mysql
+select student.*,t1.score
+from student INNER JOIN (select sc.SId,sc.score, case when @fontage=sc.score then @rank when @fontage:=sc.score then @rank:=@rank+1 end  as rank
+from course ,teacher ,sc,(select @fontage:=null,@rank:=0) as t
+where course.CId=sc.CId
+and course.TId=teacher.TId
+and teacher.Tname='张三'
+ORDER BY sc.score DESC) as t1 on student.SId=t1.SId
+where t1.rank=1
+```
+
 35. 查询不同课程成绩相同的学生的学生编号、课程编号、学生成绩
+
+``` mysql 
+select *
+from sc as t1
+where exists(select * from sc as t2 where t1.SId=t2.SId and t1.CId!=t2.CId and t1.score =t2.score )
+```
 
 36. 查询每门功成绩最好的前两名
 
+``` mysql
+select *
+from sc as t1
+where (select count(*) from sc as t2 where t1.CId=t2.CId and t2.score >t1.score)<2
+ORDER BY t1.CId
+```
+
 37. 统计每门课程的学生选修人数（超过 5 人的课程才统计）。
+
+``` mysql
+select sc.CId as 课程编号,count(*) as 选修人数
+from sc 
+GROUP BY sc.CId
+HAVING count(*)>5
+```
 
 38. 检索至少选修两门课程的学生学号
 
+``` mysql
+select DISTINCT t1.SId
+from sc as t1 
+where (select count(* )from sc where t1.SId=sc.SId)>=3
+```
+
 39. 查询选修了全部课程的学生信息
+
+``` mysql
+select student.*
+from sc ,student 
+where sc.SId=student.SId
+GROUP BY sc.SId
+HAVING count(*) = (select DISTINCT count(*) from course )
+```
 
 40. 查询各学生的年龄，只按年份来算
 
+``` mysql
+select student.SId as 学生编号,student.Sname  as  学生姓名,TIMESTAMPDIFF(YEAR,student.Sage,CURDATE()) as 学生年龄
+from student
+```
+
 41. 按照出生日期来算，当前月日 < 出生年月的月日则，年龄减一
+
+``` mysql
+select student.SId as 学生编号,student.Sname  as  学生姓名,TIMESTAMPDIFF(YEAR,student.Sage,CURDATE()) as 学生年龄
+from student
+```
 
 42. 查询本周过生日的学生
 
+``` mysql 
+select *
+from student 
+where YEARWEEK(student.Sage)=YEARWEEK(CURDATE())
+```
+
 43. 查询下周过生日的学生
+
+``` mysql
+select *
+from student 
+where YEARWEEK(student.Sage)=CONCAT(YEAR(CURDATE()),week(CURDATE())+1)
+```
 
 44. 查询本月过生日的学生
 
+``` mysql
+select *
+from student 
+where EXTRACT(YEAR_MONTH FROM student.Sage)=EXTRACT(YEAR_MONTH FROM CURDATE())
+```
+
 45. 查询下月过生日的学生
+
+``` mysql
+select *
+from student 
+where EXTRACT(YEAR_MONTH FROM student.Sage)=EXTRACT(YEAR_MONTH FROM DATE_ADD(CURDATE(),INTERVAL 1 MONTH))
+```
 
 
 
